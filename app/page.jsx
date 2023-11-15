@@ -1,7 +1,4 @@
-import Image from "next/image";
-import Link from "next/link";
 import Heading from "@/components/Heading";
-
 
 export default async function HomePage() {
 
@@ -12,6 +9,7 @@ export default async function HomePage() {
         Sub Title
       </p>
       <ul className="flex flex-col gap-3">
+
       </ul>
     </>
   );

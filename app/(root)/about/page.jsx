@@ -1,7 +1,7 @@
-import Heading from '@/components/Heading';
+import Heading from "@/components/Heading";
 
 export const metadata = {
-  title: 'About',
+  title: "About"
 };
 
 export default function AboutPage() {
